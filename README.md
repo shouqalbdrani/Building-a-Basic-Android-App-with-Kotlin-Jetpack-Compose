@@ -21,10 +21,9 @@ Navigate to the file main.kt and Run it
 Project instruction for Section 2:
 Open the Emulator 
 Run MainActivity.kt in Emulator 
+
+The Following pictures show the output of the Project: 
 ![Screenshot 2025-03-07 144553](https://github.com/user-attachments/assets/0304073c-a021-4f9a-8d19-5423737af453)
-
-
-
 
 
 ![Screenshot 2025-03-07 134445](https://github.com/user-attachments/assets/e6349841-cd9f-4241-a536-a5d0c5145cc7)
