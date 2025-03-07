@@ -15,6 +15,15 @@ Create Column to arrange the content vertically and add the Background of screen
 Create Button like Play and Download and added button Add to Watchlist, The button Add to Watchlist is toggle button and change into red if the user Added the series.
 In the finall screen add text so the user can read the description of the series. 
 
+Project Instruction for section 1 :
+Navigate to the file main.kt and Run it 
+
+Project instruction for Section 2:
+Open the Emulator 
+Run MainActivity.kt in Emulator 
 
 
-![Screenshot 2025-03-07 134445](https://github.com/user-attachments/assets/3dfc3dd6-a545-49ba-be3f-34dc06dd1e85)
+
+
+![Scree![Screenshot 2025-03-07 144553](https://github.com/user-attachments/assets/80d5592a-0ac1-4977-a651-7f65d859e12c)
+nshot 2025-03-07 134445](https://github.com/user-attachments/assets/0f7f5443-7d71-4202-94c2-febb3f84d8ec)
