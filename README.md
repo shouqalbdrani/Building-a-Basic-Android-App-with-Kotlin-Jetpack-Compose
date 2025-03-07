@@ -16,10 +16,11 @@ Create Button like Play and Download and added button Add to Watchlist, The butt
 In the finall screen add text so the user can read the description of the series. 
 
 Project Instruction for section 1 :
-Navigate to the file main.kt and Run it 
+Navigate to the file main.kt uinig this path app/src/main/java/com/example/buildingbasicandroidapp and Run it 
 
 Project instruction for Section 2:
 Open the Emulator 
+Navigate to  MainActivity.kt file uinig this path app/src/main/java/com/example/buildingbasicandroidapp
 Run MainActivity.kt in Emulator 
 
 The Following pictures show the output of the Project: 
